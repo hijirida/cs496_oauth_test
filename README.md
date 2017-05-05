@@ -1,2 +1,4 @@
 # cs496_oauth_test
-cs496 oath test assignment
+For week 5 mobile class assignment
+Code for my google app engine project: cs496-oath-test-assignment
+
